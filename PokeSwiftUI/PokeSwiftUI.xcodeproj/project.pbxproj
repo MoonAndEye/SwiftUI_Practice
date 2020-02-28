@@ -14,6 +14,7 @@
 		732DAD4524099DF500AC9419 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 732DAD4424099DF500AC9419 /* Preview Assets.xcassets */; };
 		732DAD4824099DF500AC9419 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 732DAD4624099DF500AC9419 /* LaunchScreen.storyboard */; };
 		732DAD5324099DF500AC9419 /* PokeSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732DAD5224099DF500AC9419 /* PokeSwiftUITests.swift */; };
+		732DAD5E2409A01500AC9419 /* Bulbasaur.json in Resources */ = {isa = PBXBuildFile; fileRef = 732DAD5D2409A01500AC9419 /* Bulbasaur.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		732DAD4E24099DF500AC9419 /* PokeSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokeSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		732DAD5224099DF500AC9419 /* PokeSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeSwiftUITests.swift; sourceTree = "<group>"; };
 		732DAD5424099DF500AC9419 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		732DAD5D2409A01500AC9419 /* Bulbasaur.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Bulbasaur.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				732DAD4124099DF500AC9419 /* Assets.xcassets */,
 				732DAD4624099DF500AC9419 /* LaunchScreen.storyboard */,
 				732DAD4924099DF500AC9419 /* Info.plist */,
+				732DAD5D2409A01500AC9419 /* Bulbasaur.json */,
 				732DAD4324099DF500AC9419 /* Preview Content */,
 			);
 			path = PokeSwiftUI;
@@ -191,6 +194,7 @@
 				732DAD4824099DF500AC9419 /* LaunchScreen.storyboard in Resources */,
 				732DAD4524099DF500AC9419 /* Preview Assets.xcassets in Resources */,
 				732DAD4224099DF500AC9419 /* Assets.xcassets in Resources */,
+				732DAD5E2409A01500AC9419 /* Bulbasaur.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
